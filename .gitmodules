@@ -1,0 +1,3 @@
+[submodule "SharedDataAccess"]
+	path = SharedDataAccess
+	url = https://github.com/Jimi91/SharedDataAccess.git
