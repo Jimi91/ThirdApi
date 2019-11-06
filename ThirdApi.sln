@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThirdApi", "ThirdApi\ThirdApi.csproj", "{3CC76E7F-39EC-4503-A162-F38797758438}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mediator", "Mediator\Mediator.csproj", "{AAB8BE34-B28C-45E2-BE4A-AAA73D5A2DCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "Application\Application.csproj", "{3AC747E6-AF51-41B0-8A71-CE2DEE9C18DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CC76E7F-39EC-4503-A162-F38797758438}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CC76E7F-39EC-4503-A162-F38797758438}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CC76E7F-39EC-4503-A162-F38797758438}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CC76E7F-39EC-4503-A162-F38797758438}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAB8BE34-B28C-45E2-BE4A-AAA73D5A2DCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAB8BE34-B28C-45E2-BE4A-AAA73D5A2DCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAB8BE34-B28C-45E2-BE4A-AAA73D5A2DCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAB8BE34-B28C-45E2-BE4A-AAA73D5A2DCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AC747E6-AF51-41B0-8A71-CE2DEE9C18DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AC747E6-AF51-41B0-8A71-CE2DEE9C18DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AC747E6-AF51-41B0-8A71-CE2DEE9C18DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AC747E6-AF51-41B0-8A71-CE2DEE9C18DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40DE7033-8F1D-4DF0-94D1-599585C5E15C}
+	EndGlobalSection
+EndGlobal

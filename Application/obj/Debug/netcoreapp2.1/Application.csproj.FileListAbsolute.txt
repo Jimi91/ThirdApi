@@ -1,0 +1,12 @@
+D:\TestProekti\GoodApi\ThirdApi\Application\bin\Debug\netcoreapp2.1\Application.deps.json
+D:\TestProekti\GoodApi\ThirdApi\Application\bin\Debug\netcoreapp2.1\Application.dll
+D:\TestProekti\GoodApi\ThirdApi\Application\bin\Debug\netcoreapp2.1\Application.pdb
+D:\TestProekti\GoodApi\ThirdApi\Application\bin\Debug\netcoreapp2.1\Mediator.dll
+D:\TestProekti\GoodApi\ThirdApi\Application\bin\Debug\netcoreapp2.1\Mediator.pdb
+D:\TestProekti\GoodApi\ThirdApi\Application\obj\Debug\netcoreapp2.1\Application.csprojAssemblyReference.cache
+D:\TestProekti\GoodApi\ThirdApi\Application\obj\Debug\netcoreapp2.1\Application.csproj.CoreCompileInputs.cache
+D:\TestProekti\GoodApi\ThirdApi\Application\obj\Debug\netcoreapp2.1\Application.AssemblyInfoInputs.cache
+D:\TestProekti\GoodApi\ThirdApi\Application\obj\Debug\netcoreapp2.1\Application.AssemblyInfo.cs
+D:\TestProekti\GoodApi\ThirdApi\Application\obj\Debug\netcoreapp2.1\Application.csproj.CopyComplete
+D:\TestProekti\GoodApi\ThirdApi\Application\obj\Debug\netcoreapp2.1\Application.dll
+D:\TestProekti\GoodApi\ThirdApi\Application\obj\Debug\netcoreapp2.1\Application.pdb
